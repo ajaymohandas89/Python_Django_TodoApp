@@ -1,6 +1,6 @@
 # Python_Django_TodoApp
 
-A simple todo app using pythong django framework.
+A simple todo app using python django framework.
 
 Pre-requisites:
 1) Python on local machine
